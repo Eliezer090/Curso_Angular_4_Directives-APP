@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Todos os NG
-Nessa parte foi aprendido os NG Ex: 
-23. ngstyle 
+Nessa parte foi aprendido os NG Ex: <br>
+23. ngstyle <br>
 24. ngclass 
 25. ngif 
 26. ngfor - Parte 1 
