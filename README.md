@@ -28,15 +28,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Todos os NG
-Nessa parte foi aprendido os NG Ex:
-23. ngstyle
-24. ngclass
-25. ngif
-26. ngfor - Parte 1
-27. ngfor - Parte 2
-28. ngfor - Parte 3
-29. ngfor - Parte 4
-30. ngswitch
-31. ngtemplate
-32. ngcontainer
-33. ngcontent
+Nessa parte foi aprendido os NG Ex: 
+23. ngstyle 
+24. ngclass 
+25. ngif 
+26. ngfor - Parte 1 
+27. ngfor - Parte 2 
+28. ngfor - Parte 3 
+29. ngfor - Parte 4 
+30. ngswitch 
+31. ngtemplate 
+32. ngcontainer 
+33. ngcontent 
