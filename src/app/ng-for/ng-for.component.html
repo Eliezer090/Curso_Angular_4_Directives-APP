@@ -1,0 +1,42 @@
+<!--<p *ngFor="let name of names">
+    {{name}}
+</p>
+
+
+<p *ngFor="let name of names; let i=index">
+    {{i}} : {{name}}
+</p>
+-->
+
+<mat-card>
+    <mat-card-content>
+        <mat-selection-list>
+            <mat-list-option *ngFor="let name of names">
+                {{name}}
+            </mat-list-option>
+        </mat-selection-list>
+    </mat-card-content>
+    <mat-card-footer>
+
+    </mat-card-footer>
+</mat-card>
+
+
+<mat-card>
+    <mat-card-content>
+        <mat-list>
+            <h3 matSubheader>Names</h3>
+            <mat-list-item *ngFor="let name of names">
+                <mat-icon matListIcon>person</mat-icon>
+                <h4 matLine>{{name}}</h4>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+            <h3 matSubheader>Cities</h3>
+            <mat-list-item *ngFor="let cyti of cyties">
+                <mat-icon matListIcon>location_city</mat-icon>
+                <h4 matLine>{{cyti.name}}</h4>
+                <h4 matLine>{{cyti.state}}</h4>
+            </mat-list-item>
+        </mat-list>
+    </mat-card-content>
+</mat-card>
