@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Todos os NG
+Nessa parte foi aprendido os NG Ex: <br>
+23. ngstyle <br>
+24. ngclass <br>
+25. ngif <br>
+26. ngfor - Parte 1 <br>
+27. ngfor - Parte 2 <br>
+28. ngfor - Parte 3 <br>
+29. ngfor - Parte 4 <br>
+30. ngswitch <br>
+31. ngtemplate <br>
+32. ngcontainer <br>
+33. ngcontent <br>
